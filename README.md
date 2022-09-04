@@ -1,4 +1,9 @@
 # **Hello**
+If you see this
+You now know I like pressing random buttons
+I am also surprisingly good at stuff, including game development
+You have good day now
+:)
 
 
 <!---
